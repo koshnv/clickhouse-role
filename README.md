@@ -1,4 +1,4 @@
-Role Name
+Role clickhouse
 =========
 
 Роль для установки clickhouse.
